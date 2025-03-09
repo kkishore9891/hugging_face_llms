@@ -1,2 +1,2 @@
-# hugging_face_llms
-Repository for all the hugging face courses
+# Hugging Face LLMs
+Repository for the Hugging Face NLP course and the agents course.
